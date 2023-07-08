@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alec_\\OneDrive\\Desktop\\AlecFletcherInventoryProject\\AlecFletcherInventoryProject\\AlecFletcherInventoryProject.csproj",
+      "projectUniqueName": "C:\\Users\\alec_\\OneDrive\\Documents\\GitHub\\InventoryManagement\\AlecFletcherInventoryProject\\AlecFletcherInventoryProject.csproj",
       "projectName": "AlecFletcherInventoryProject",
-      "projectPath": "C:\\Users\\alec_\\OneDrive\\Desktop\\AlecFletcherInventoryProject\\AlecFletcherInventoryProject\\AlecFletcherInventoryProject.csproj",
+      "projectPath": "C:\\Users\\alec_\\OneDrive\\Documents\\GitHub\\InventoryManagement\\AlecFletcherInventoryProject\\AlecFletcherInventoryProject.csproj",
       "packagesPath": "C:\\Users\\alec_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alec_\\OneDrive\\Desktop\\AlecFletcherInventoryProject\\AlecFletcherInventoryProject\\obj\\",
+      "outputPath": "C:\\Users\\alec_\\OneDrive\\Documents\\GitHub\\InventoryManagement\\AlecFletcherInventoryProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alec_\\AppData\\Roaming\\NuGet\\NuGet.Config",
